@@ -1,4 +1,10 @@
   .navbar {
       font-size: 2em;
       margin-bottom: 50px;
+  } 
+
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
   }
